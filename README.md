@@ -1,2 +1,4 @@
 # half-full
-AI perspective for half-full glass 
+
+A fun project with serious objective. 
+
