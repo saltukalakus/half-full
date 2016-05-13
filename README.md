@@ -2,6 +2,8 @@
 
 A fun project with a serious objective. 
 
-Detect the fullness of anything which human understands naturally. The thing might be a glass of water, a box with fruits, a truck with full of sand.
+![Half Full](dilbert_glass_half_full_of_what.gif?raw=true "Half Full")
+
+Detect the fullness of anything which humans understand naturally. The thing might be anything like a glass of water, a box with fruits, a truck with full of sand.
 
 
